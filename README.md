@@ -1,6 +1,6 @@
 # Win32 Process Memory Analyzer
 
-A lightweight, read-only diagnostic tool for inspecting the virtual memory layout of running Windows processes. Built directly on the Win32 API (no external dependencies) to enumerate committed memory regions, classify their protection attributes, and surface indicators commonly associated with code injection or unpacking activity.
+A lightweight&open-sourced, read-only diagnostic tool for inspecting the virtual memory layout of running Windows processes. Built directly on the Win32 API (no external dependencies) to enumerate committed memory regions, classify their protection attributes, and surface indicators commonly associated with code injection or unpacking activity.
 
 ## What it does
 
