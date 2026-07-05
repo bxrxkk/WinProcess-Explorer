@@ -25,3 +25,7 @@ Memory region enumeration is a foundational technique in both defensive tooling 
 ## Usage
 
 Requires Windows + a process ID you have permission to inspect. Some processes will require running elevated due to Windows access control on protected processes.
+
+## Disclaimer
+
+Built for educational and legitimate diagnostic purposes (security research, debugging, systems programming). You are responsible for ensuring you have authorization to inspect any process you target with this tool.
